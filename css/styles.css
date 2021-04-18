@@ -1,28 +1,28 @@
-body{
+body {
     color: green;
 }
 
-p{
+p {
     font-size: 20px;
 }
 
-.serifFont{
+.serifFont {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
  
-.sansSerifFont{
+.sansSerifFont {
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
 }
 
-.monospaceFont{
+.monospaceFont {
     font-family: 'Courier New', Courier, monospace;
     font-variant-caps: small-caps;
 }
 
-h3{
-    font-size: 5 vw;
+h3 {
+    font-size: 5vw;
     text-align: center;
-    color: blue;
+    color: rgb(38, 255, 0);
 }
